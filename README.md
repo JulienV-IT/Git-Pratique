@@ -5,9 +5,13 @@ Pratique Git
 
 
 
+Hello there stranger
+
+
 Bienvenue 
 
 Test Github
+
 
 
 Le saviez-vous? Il est impossible d'avoir un dés parfait avant qu'il fasse 120 faces.
